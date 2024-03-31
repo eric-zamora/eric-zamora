@@ -5,22 +5,18 @@
 </a>
 <br />
 <br />
-<img src="https://www.codewars.com/users/Achhoubi%20Alpha/badges/large" alt="Achhoubi Alpha Codewars Badge">
-<br />
-<br />
 
 First-generation graduate with expertise in software engineering, web development, and electronics. Adaptable and knowledgeable programmer seeking to launch a career in the tech industry. Passionate about making a difference and eager to contribute to a forward-thinking team dedicated to innovative solutions.
 <br />
 
-I'm currently based in **[Ben Guerir, Morocco.](https://www.google.com/maps/place/Ben+Guerir/@32.2307977,-7.9817398,13z/data=!3m1!4b1!4m5!3m4!1s0xdaf7a781193e37b:0x600a48af566b132a!8m2!3d32.2359364!4d-7.9538378)**
+I'm currently based in **[McAllen, Texas.](https://www.google.com/maps/place/McAllen,+TX/@26.2261125,-98.3390413,12z/data=!3m1!4b1!4m6!3m5!1s0x866576324d9637df:0x2f1d39a9b52c0eb8!8m2!3d26.2034071!4d-98.2300124!16zL20vMDEwM2hw?entry=ttu)**
 
 <br />
-I love learning new techs and using new tools. I also love drinking Atay (Tea in Ar - Morocco) while coding.
+I love learning new techs and using new tools.
 <br />
 <br />
 
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
-Ask me anything **[here](https://github.com/abdoachhoubi/abdoachhoubi/issues/new)** or <a href="mailto:abdo.achhoubi3@gmail.com"><b>send me an email</b></a>.
+Ask me anything **[here]("mailto:abdo.achhoubi3@gmail.com")**. 
 <br />
 <br />
 
