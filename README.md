@@ -1,8 +1,19 @@
 <div align="center">
-<h2> Hi there, welcome to my GitHub profile! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30"></h2>
-<a href="https://www.linkedin.com/in/eric-zamora-8sf/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+  <h2>
+    Hi there, my name is <em>Eric Zamora</em>. 
+    <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30">
+  </h2>
+  <h3>Welcome to my GitHub profile!</h3>
+  <br />
+  <a href="https://www.linkedin.com/in/eric-zamora-8sf/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://twitter.com/ericzamoratech" target="_blank">
+    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1D9BF0&style=for-the-badge&logo=x&logoColor=white alt=x style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.instagram.com/ericzamoratech/" target="_blank">
+    <img src=https://img.shields.io/badge/instagram-%2300acee.svg?color=E84476&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  </a>
 <br />
 <br />
 
